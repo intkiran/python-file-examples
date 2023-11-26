@@ -1,0 +1,5 @@
+[mysql]
+host = "localhost:31016"
+username = "root"
+password = "password"
+database = "students"
